@@ -17,7 +17,6 @@
 
 ```javascript
 const shreeraksha = {
-    pronouns: "She/Her",
     location: "India 🇮🇳",
     currentFocus: ["Frontend Development", "Web Applications"],
     technologies: {
@@ -63,10 +62,7 @@ const shreeraksha = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shreeRCode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreeRCode&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreeRCode&theme=tokyonight" alt="GitHub Streak" />
