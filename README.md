@@ -88,8 +88,8 @@ const shreeraksha = {
 
 ## 🌱 Currently Exploring
 
-- Building modern frontend projects
-- Improving UI/UX skills
+- Building modern full-stack projects
+- Improving Problem Solving skills
 - Learning scalable web development
 - Exploring Firebase integrations
 
